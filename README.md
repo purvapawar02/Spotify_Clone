@@ -1,0 +1,1 @@
+I have implement a Spotify Clone with the help of HTML, CSS .Created various sectors of the clone such as navigation bar,Side bar, Header,footer,cards and  many more by styling all this we created a clone which looks like spotify website.
